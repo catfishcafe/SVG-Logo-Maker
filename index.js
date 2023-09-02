@@ -32,13 +32,12 @@ const questions = [
 
 //function writeToFile(data){try{
 //(in here the data may be sent to another function to actually make the file, we'll see)
+// AND the output text "Generated logo.svg" is printed in the command line
+//console.log("Generated logo.svg")
 //}catch (err) console.log(err);}
 
-// AND the output text "Generated logo.svg" is printed in the command line
 // WHEN I open the `logo.svg` file in a browser
 // THEN I am shown a 300x200 pixel image that matches the criteria I entered
-
-//Creates .md file, names it, and sends data to the function that generates the file content
 
 //Function to initialize app
 function init() {
