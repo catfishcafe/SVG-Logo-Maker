@@ -1,10 +1,1 @@
-<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <rect x="50" width="200" height="200" fill="darkviolet" />
-    <style>
-      text {
-        font: 150px sans-serif;
-        fill: black;
-      }
-    </style>
-    <text x="150" y="100" dominant-baseline="middle" text-anchor="middle">eee</text>
-</svg>
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="100" r="100" fill="pink" /><style>text{font: 150px sans-serif;fill: red;}</style><text x="150" y="100" dominant-baseline="middle" text-anchor="middle">feh</text></svg>
