@@ -1,5 +1,5 @@
-const CLI = require('./lib/cli.js');
+const Inquirer = require('./lib/inquirer.js');
 
-const cli = new CLI();
+const inquirer = new Inquirer();
 
-cli.run();
+inquirer.run();
