@@ -1,2 +1,1 @@
-<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="200" fill="gray" /><polygon points="35, 205 146, 0 266, 200
-    " x="150" y="100" dominant-baseline="middle" text-anchor="middle" fill="cyan" /><style>text{font: 100px sans-serif;fill: red;}</style><text x="150" y="100" dominant-baseline="middle" text-anchor="middle">ooo</text></svg>
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="200" fill="gray" /><circle cx="150" cy="100" r="100" fill="purple" /><style>text{font: 100px sans-serif;fill: yellow;}</style><text x="150" y="100" dominant-baseline="middle" text-anchor="middle">feh</text></svg>
