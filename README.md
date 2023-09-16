@@ -22,7 +22,7 @@
   
   A video showing this process can be found here:
 
-  (will be here)
+  https://drive.google.com/file/d/1srFrsHGKBmpdBUX0cfNWBkvMyraf47QI/view
   
   Once done, the logo will be generated!
 
